@@ -1,11 +1,11 @@
 const nameGirl = 'My Dream 💘';
 const giftUrl = 'https://www.facebook.com/huutue47';
 const eventName = 'Chúc Mừng 20-10';
-// const titleCard = 'Tặng vợ yêu của chồng';
-// const contentCard = 'Chúc MC của anh 20/10 tràn ngập niềm vui và những nụ cười. Mong mọi điều đẹp nhất sẽ đến với em. Chúc em luôn có anh bên cạnh ^_^';
+const titleCard = 'HAPPY 20/10';
+const contentCard = 'Chúc MC của anh 20/10 tràn ngập niềm vui và những nụ cười. Mong mọi điều đẹp nhất sẽ đến với em. Chúc em luôn có anh bên cạnh ^_^';
 
-const titleCard = 'HAPPY';
-const contentCard = 'Bởi vì mẹ nói…yêu có thể dễ, nhưng mà đâu dễ để con kiếm được bạn đời. Chung sống bên nhau, sinh con, đẻ cái, trăm năm thì đâu có thể là chuyện tạm thời. Anh bắt đầu lo, khi em bước tới và làm anh muốn rước về làm dâu cả đời.💘';
+// const titleCard = 'HAPPY';
+// const contentCard = 'Bởi vì mẹ nói…yêu có thể dễ, nhưng mà đâu dễ để con kiếm được bạn đời. Chung sống bên nhau, sinh con, đẻ cái, trăm năm thì đâu có thể là chuyện tạm thời. Anh bắt đầu lo, khi em bước tới và làm anh muốn rước về làm dâu cả đời.💘';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 const giftImage = 'love-1.jpg';
